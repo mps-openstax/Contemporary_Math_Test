@@ -13,6 +13,7 @@
       <content>
         <module document="m00001"/>
         <module document="m00002"/>
+        <module document="m00003"/>
       </content>
     </subcollection>
   </content>

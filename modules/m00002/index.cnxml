@@ -18,7 +18,7 @@
   </section>
   <section id="sect-00002"><title>Visualizing Categorical Data</title>
   <para id="para-00003">If the data we’re visualizing is categorical, then we want a quick way to represent graphically the relative numbers of units that fall in each category. When we created the frequency distributions in the last module, all we did was count the number of units in each category and record that number (this was the frequency of that category). Frequencies are nice when we’re organizing and summarizing data; they’re easy to compute, and they’re always whole numbers. But they can be difficult to understand for an outsider who’s being introduced to your data. Let’s consider a quick example. Suppose you surveyed some people and asked for their favorite color. You communicate your results using a frequency distribution. Now Jerry comes along and wants to know about favorite colors, so Jerry reads your frequency distribution. The first row shows that twelve people indicated that green was their favorite color. That’s interesting, but Jerry has no way of knowing if that’s a lot of people without knowing how many people total took your survey. Twelve is a pretty significant number of people if only twenty-five took the survey, but it’s next to nothing if you recorded a thousand responses. For that reason, we will often summarize categorical data not with frequencies, but with <term id="term-00001">proportions</term>.</para>
-  <note class="definition" id="note-00001">
+  <note class="definition" id="note-00001"><title>Definition</title>
   <para id="para-00004">The <emphasis effect="bold">proportion</emphasis> of data that fall into a particular category is computed by dividing the frequency for that category by the total number of units in the data. Proportions can be expressed as fractions, decimals, or percentages.</para>
   </note>
   <example id="exam-00001"><title>EXAMPLE 5 – Finding Proportions</title>
@@ -249,7 +249,7 @@
   <para id="para-00016">Now that we can compute proportions, let’s turn to visualizations. There are two primary visualizations that we’ll use for categorical data: bar charts and pie charts. Both of these data representations work on the same principle: if proportions are represented as areas, then it’s easy to compare two proportions by assessing the corresponding areas. Let’s look at bar charts first.</para>
   <section id="sect-00003"><title>Bar Charts</title>
   <para id="para-00017">A <term id="term-00002">bar chart</term> is a visualization of categorical data that consists of a series of rectangles arranged side-by-side (but not touching). Each rectangle corresponds to one of the categories. All of the rectangles have the same width. The height of each rectangle corresponds to either the number of units in the corresponding category or the proportion of the total units that fall into the category.</para>
-  <note class="definition" id="note-00004">
+  <note class="definition" id="note-00004"><title>Definition</title>
   <para id="para-00018">A <emphasis effect="bold">bar chart</emphasis> is a visualization of categorical data that consists of a series of rectangles arranged side-by-side (but not touching).</para>
   </note>
   </section>
