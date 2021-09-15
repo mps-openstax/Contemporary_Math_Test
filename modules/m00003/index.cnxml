@@ -548,7 +548,7 @@
         <para id="para-00051">Florence Nightingale (1820-1910) is best remembered today for her contributions in the medical field; after witnessing the horrors of field hospitals that tended to the wounded during the Crimean War, she championed reforms that encouraged sanitary conditions in hospitals. For those efforts, she is today considered the founder of modern nursing.</para>
         <figure id="fig-00015">
         <media alt="Insert Alt Text">
-        <image mime-type="image/png" src="../../media/CS_Figure_09_02_015.jpg"/>
+        <image mime-type="image/png" src="../../media/Photo_8.6.tif"/>
         </media>
         <caption><emphasis effect="italic">Photo 8.6: Photo or other picture of Florence Nightingale</emphasis></caption>
         </figure>
@@ -1379,7 +1379,7 @@
         <media alt="Insert Alt Text">
         <image mime-type="image/png" src="../../media/CS_Figure_09_02_015.jpg"/>
         </media>
-        <caption><emphasis effect="italic">Tech 9.15: A set of axes intersecting in the lower left corner of the diagram. Evenly-spaced labels 80, 90, 100, 110, 120, 130 with tick marks on the horizontal axis, evenly-spaced labels 3, 6, 9, 12, 15 with ticks on the vertical axis, like this:</emphasis></caption>
+        <caption><emphasis effect="italic">Tech 8.15: A set of axes intersecting in the lower left corner of the diagram. Evenly-spaced labels 80, 90, 100, 110, 120, 130 with tick marks on the horizontal axis, evenly-spaced labels 3, 6, 9, 12, 15 with ticks on the vertical axis, like this:</emphasis></caption>
         </figure>
         <para id="para-00082">Step 3 – Draw in the bars. Remember that the bars of a histogram touch, and that the heights are determined by the frequency. So, the first bar will cover 80 to 90 on the horizontal axis, and have a height of 7:</para>
         <figure id="fig-00017">
@@ -1874,19 +1874,1569 @@
         <note class="who-knew" id="note-00025"><title>NAPOLEON'S FAILED INVASION</title>
         <figure id="fig-00034">
         <media alt="Insert Alt Text">
-        <image mime-type="image/png" src="../../media/CS_Figure_09_02_033.jpg"/>
+        <image mime-type="image/png" src="../../media/Photo_8.14.jpg"/>
         </media>
         <caption><emphasis effect="italic">Photo 8.14: https://en.wikipedia.org/wiki/Charles_Joseph_Minard#/media/File:Minard.png (public domain)</emphasis></caption>
         </figure>
         <para id="para-00122">One of the most famous data visualizations ever created was this one, which Charles Joseph Minard used to depict Napoleon’s disastrous attempted invasion of Russia. Here’s the same visualization, but translated into English:</para>
         <figure id="fig-00035">
         <media alt="Insert Alt Text">
-        <image mime-type="image/png" src="../../media/CS_Figure_09_02_034.jpg"/>
+        <image mime-type="image/png" src="../../media/Photo_8.15.jpg"/>
         </media>
         <caption><emphasis effect="italic">Photo 8.15: https://en.wikipedia.org/wiki/Charles_Joseph_Minard#/media/File:Redrawing_of_Minard's_Napoleon_map.svg (CC BY-SA 4.0)</emphasis></caption>
         </figure>
         <para id="para-00123">Minard’s chart is remarkable in that it shows not just how the size of Napoleon’s army shrank drastically over time, but also the location on the map, the direction the army was traveling at the time, and the temperature during the retreat.</para>
         </note>
         </section>
+        <section id="sect-00010"><title>Check Your Understanding</title>
+          <exercise id="exer-00019">
+            <problem id="prob-00019">
+            <para id="para-00127"><list list-type="enumerated" number-style="arabic" id="list-00010">
+            <item>The medical office at a zoo tracks the animals it treats each week. Here are the classifications for a particular week:
+            <table frame="none" summary="." id="table-00027">
+            <tgroup cols="6">
+            <colspec colnum="1" colname="c1" colwidth="1*"/>
+            <colspec colnum="2" colname="c2" colwidth="1*"/>
+            <colspec colnum="3" colname="c3" colwidth="1*"/>
+            <colspec colnum="4" colname="c4" colwidth="1*"/>
+            <colspec colnum="5" colname="c5" colwidth="1*"/>
+            <colspec colnum="6" colname="c6" colwidth="1*"/>
+            <tbody>
+            <row><entry>Mammal</entry>
+            <entry>Mammal</entry>
+            <entry>Reptile</entry>
+            <entry>Bird</entry>
+            <entry>Mammal</entry>
+            <entry>Amphibian</entry></row>
+            <row><entry>Mammal</entry>
+            <entry>Mammal</entry>
+            <entry>Mammal</entry>
+            <entry>Reptile</entry>
+            <entry>Mammal</entry>
+            <entry>Bird</entry></row>
+            <row><entry>Mammal</entry>
+            <entry>Bird</entry>
+            <entry>Reptile</entry>
+            <entry>Reptile</entry>
+            <entry>Amphibian</entry>
+            <entry>Mammal</entry></row>
+            <row><entry>Bird</entry>
+            <entry>Mammal</entry>
+            <entry>Amphibian</entry>
+            <entry>Mammal</entry>
+            <entry>Mammal</entry>
+            <entry>Bird</entry></row></tbody>
+            </tgroup>
+            </table>
+            <list list-type="enumerated" number-style="lower-alpha" id="list-00011">
+            <item>Create a bar graph of the data by hand.</item>
+            <item>Create a pie chart of the data using technology.</item>
+            </list></item>
+            </list></para>
+            </problem>
+            <solution id="sol-00020"><list list-type="enumerated" number-style="lower-alpha" id="list-00012">
+            <item>
+            <figure id="fig-00036">
+            <media alt="Insert Alt Text">
+            <image mime-type="image/png" src="../../media/CS_Figure_09_02_033.jpg"/>
+            </media>
+            <caption><emphasis effect="italic">Tech 8.33: a bar graph like this one, using the data from the table just above</emphasis></caption>
+            </figure></item>
+            <item>
+            <figure id="fig-00037">
+            <media alt="Insert Alt Text">
+            <image mime-type="image/png" src="../../media/CS_Figure_09_02_034.jpg"/>
+            </media>
+            <caption><emphasis effect="italic">Tech 8.34: A pie chart using the data from Tech8.33, like this:</emphasis></caption>
+            </figure></item>
+            </list>
+            </solution>
+          </exercise>
+          
+          <exercise id="exer-00021">
+            <problem id="prob-00021">
+            <list list-type="enumerated" number-style="arabic" start-value="2" id="list-00013">
+            <item>Employees at a college help desk track the number of people who request assistance each week. Here is a sample of the results (also found in the data set “HelpDesk”:
+            <table frame="none" summary="." id="table-00028">
+            <tgroup cols="6">
+            <colspec colnum="1" colname="c1" colwidth="1*"/>
+            <colspec colnum="2" colname="c2" colwidth="1*"/>
+            <colspec colnum="3" colname="c3" colwidth="1*"/>
+            <colspec colnum="4" colname="c4" colwidth="1*"/>
+            <colspec colnum="5" colname="c5" colwidth="1*"/>
+            <colspec colnum="6" colname="c6" colwidth="1*"/>
+            <tbody>
+            <row><entry>142</entry>
+            <entry>153</entry>
+            <entry>158</entry>
+            <entry>156</entry>
+            <entry>141</entry>
+            <entry>143</entry></row>
+            <row><entry>139</entry>
+            <entry>158</entry>
+            <entry>156</entry>
+            <entry>146</entry>
+            <entry>137</entry>
+            <entry>153</entry></row>
+            <row><entry>136</entry>
+            <entry>127</entry>
+            <entry>157</entry>
+            <entry>148</entry>
+            <entry>132</entry>
+            <entry>139</entry></row>
+            <row><entry>155</entry>
+            <entry>167</entry>
+            <entry>143</entry>
+            <entry>168</entry>
+            <entry>133</entry>
+            <entry>157</entry></row>
+            <row><entry>138</entry>
+            <entry>156</entry>
+            <entry>164</entry>
+            <entry>130</entry>
+            <entry>148</entry>
+            <entry>136</entry></row></tbody>
+            </tgroup>
+            </table>
+            <list list-type="enumerated" number-style="lower-alpha" id="list-00014">
+            <item>Make a stem-and-leaf plot of the data.</item>
+            <item>Create a histogram of the data. Use bins of width 5.</item>
+            </list></item>
+            </list>
+            </problem>
+            <solution id="sol-00021"><list list-type="enumerated" number-style="lower-alpha" id="list-00015">
+            <item> 
+            <table frame="none" summary="." id="table-00029">
+            <tgroup cols="11">
+            <colspec colnum="1" colname="c1" colwidth="1*"/>
+            <colspec colnum="2" colname="c2" colwidth="1*"/>
+            <colspec colnum="3" colname="c3" colwidth="1*"/>
+            <colspec colnum="4" colname="c4" colwidth="1*"/>
+            <colspec colnum="5" colname="c5" colwidth="1*"/>
+            <colspec colnum="6" colname="c6" colwidth="1*"/>
+            <colspec colnum="7" colname="c7" colwidth="1*"/>
+            <colspec colnum="8" colname="c8" colwidth="1*"/>
+            <colspec colnum="9" colname="c9" colwidth="1*"/>
+            <colspec colnum="10" colname="c10" colwidth="1*"/>
+            <colspec colnum="11" colname="c11" colwidth="1*"/>
+            <tbody>
+            <row><entry>12</entry>
+            <entry>7</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/></row>
+            <row><entry>13</entry>
+            <entry>0</entry>
+            <entry>2</entry>
+            <entry>3</entry>
+            <entry>6</entry>
+            <entry>6</entry>
+            <entry>7</entry>
+            <entry>8</entry>
+            <entry>9</entry>
+            <entry>9</entry>
+            <entry/></row>
+            <row><entry>14</entry>
+            <entry>1</entry>
+            <entry>2</entry>
+            <entry>3</entry>
+            <entry>3</entry>
+            <entry>6</entry>
+            <entry>8</entry>
+            <entry>8</entry>
+            <entry/>
+            <entry/>
+            <entry/></row>
+            <row><entry>15</entry>
+            <entry>3</entry>
+            <entry>3</entry>
+            <entry>5</entry>
+            <entry>6</entry>
+            <entry>6</entry>
+            <entry>6</entry>
+            <entry>7</entry>
+            <entry>7</entry>
+            <entry>8</entry>
+            <entry>8</entry></row>
+            <row><entry>16</entry>
+            <entry>4</entry>
+            <entry>7</entry>
+            <entry>8</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/></row>
+            </tbody>
+            </tgroup>
+            </table></item>
+            <item><figure id="fig-00038">
+            <media alt="Insert Alt Text">
+            <image mime-type="image/png" src="../../media/CS_Figure_09_02_035.jpg"/>
+            </media>
+            <caption><emphasis effect="italic">Tech 8.35: Histogram like this one. Data are in sheet Tech8.35.</emphasis></caption>
+            </figure></item>
+            </list>
+            </solution>
+           </exercise> 
+          
+           <exercise id="exer-00022">
+            <problem id="prob-00022">
+            <list list-type="enumerated" number-style="arabic" start-value="3" id="list-00016">
+            <item>The following are data (from data.ed.gov, accessed January 2020) on the admission rates of the different branch campuses in the University of California system, along with the out-of-state tuition and fee cost (data can be found in “UofCal”):
+            <table frame="none" summary="." id="table-00030">
+            <tgroup cols="3">
+            <colspec colnum="1" colname="c1" colwidth="1*"/>
+            <colspec colnum="2" colname="c2" colwidth="1*"/>
+            <colspec colnum="3" colname="c3" colwidth="1*"/>
+            <thead>
+            <row><entry>Campus</entry>
+            <entry>Admission Rate</entry>
+            <entry>Cost ($)</entry></row>
+            </thead>
+            <tbody>
+            <row><entry>Berkeley</entry>
+            <entry>0.1484</entry>
+            <entry>43,176</entry></row>
+            <row><entry>Davis</entry>
+            <entry>0.4107</entry>
+            <entry>43,394</entry></row>
+            <row><entry>Irvine</entry>
+            <entry>0.2876</entry>
+            <entry>42,692</entry></row>
+            <row><entry>Los Angeles</entry>
+            <entry>0.1404</entry>
+            <entry>42,218</entry></row>
+            <row><entry>Merced</entry>
+            <entry>0.6617</entry>
+            <entry>42,530</entry></row>
+            <row><entry>Riverside</entry>
+            <entry>0.5057</entry>
+            <entry>42,819</entry></row>
+            <row><entry>San Diego</entry>
+            <entry>0.3006</entry>
+            <entry>43,159</entry></row>
+            <row><entry>Santa Barbara</entry>
+            <entry>0.322</entry>
+            <entry>43,383</entry></row>
+            <row><entry>Santa Cruz</entry>
+            <entry>0.4737</entry>
+            <entry>42,952</entry></row></tbody>
+            </tgroup>
+            </table>
+            <list list-type="enumerated" number-style="lower-alpha" id="list-00017">
+            <item>Create a bar graph that illustrates the differences in admission rates among the different campuses.</item>
+            <item>Create two bar graphs for the out-of-state tuition. One should give an unbiased perception of the differences among them, and the other should overemphasize those differences.</item>
+            </list></item>
+            </list>
+            </problem>
+            <solution id="sol-00022"><list list-type="enumerated" number-style="lower-alpha" id="list-00018">
+            <item>
+            <figure id="fig-00039">
+            <media alt="Insert Alt Text">
+            <image mime-type="image/png" src="../../media/CS_Figure_09_02_036.jpg"/>
+            </media>
+            <caption><emphasis effect="italic">Tech 8.36: Bar graph like this one; data in Tech8.36</emphasis></caption>
+            </figure></item>
+            <item><figure id="fig-00040">
+            <media alt="Insert Alt Text">
+            <image mime-type="image/png" src="../../media/CS_Figure_09_02_037a.jpg"/>
+            <image mime-type="image/png" src="../../media/CS_Figure_09_02_037b.jpg"/>
+            </media>
+            <caption><emphasis effect="italic">Tech 8.37: Two bar graphs like these, using data from Tech8.36. The only difference should be the titles and the vertical scales.</emphasis></caption>
+            </figure></item>
+            </list>
+            </solution>
+            </exercise>
+          </section>
+          <section class="section-exercises" id="sect-00011">
+            <exercise id="exer-00023">
+              <problem id="prob-00023">
+                <list list-type="enumerated" number-style="arabic" id="list-00019">
+                  <item>In Exercise 16 in Module 1, you looked at responses to the question, “Which social media platform, if any, do you use most frequently?” The raw responses are given in this table:
+                  <table frame="none" summary="." id="table-00031">
+                  <tgroup cols="6">
+                  <colspec colnum="1" colname="c1" colwidth="1*"/>
+                  <colspec colnum="2" colname="c2" colwidth="1*"/>
+                  <colspec colnum="3" colname="c3" colwidth="1*"/>
+                  <colspec colnum="4" colname="c4" colwidth="1*"/>
+                  <colspec colnum="5" colname="c5" colwidth="1*"/>
+                  <colspec colnum="6" colname="c6" colwidth="1*"/>
+                  <tbody>
+                  <row><entry>None</entry>
+                  <entry>Twitter</entry>
+                  <entry>Snapchat</entry>
+                  <entry>Snapchat</entry>
+                  <entry>Twitter </entry>
+                  <entry>Facebook</entry></row>
+                  <row><entry>Instagram</entry>
+                  <entry>Snapchat</entry>
+                  <entry>Twitter</entry>
+                  <entry>None</entry>
+                  <entry>Snapchat</entry>
+                  <entry>Instagram</entry></row>
+                  <row><entry>Instagram</entry>
+                  <entry>Facebook</entry>
+                  <entry>None</entry>
+                  <entry>Instagram</entry>
+                  <entry>Snapchat</entry>
+                  <entry>Twitter</entry></row>
+                  <row><entry>Snapchat</entry>
+                  <entry>Instagram</entry>
+                  <entry>Instagram</entry>
+                  <entry>Twitter</entry>
+                  <entry>Snapchat</entry>
+                  <entry>Twitter</entry></row>
+                  <row><entry>Facebook</entry>
+                  <entry>None</entry>
+                  <entry>Instagram</entry>
+                  <entry>Instagram</entry>
+                  <entry>Twitter </entry>
+                  <entry>Instagram</entry></row></tbody>
+                  </tgroup>
+                  </table>
+                  <list list-type="enumerated" number-style="lower-alpha" id="list-00020">
+                  <item>Make a bar chart to visualize these responses.</item>
+                  <item>Make a pie chart to visualize these responses.</item>
+                  </list></item>
+                  </list>
+                  </problem>
+                  <solution id="sol-00023">
+                  <list list-type="enumerated" number-style="lower-alpha" id="list-00021">
+                  <item>
+                  <figure id="fig-00041">
+                  <media alt="Insert Alt Text">
+                  <image mime-type="image/png" src="../../media/CS_Figure_09_02_038.jpg"/>
+                  </media>
+                  <caption><emphasis effect="italic">Tech 8.38: Bar graph using data in Tech8.38, like this:</emphasis></caption>
+                  </figure></item>
+                  <item><figure id="fig-00042">
+                  <media alt="Insert Alt Text">
+                  <image mime-type="image/png" src="../../media/CS_Figure_09_02_039.jpg"/>
+                  </media>
+                  <caption><emphasis effect="italic">Tech 8.39: Pie chart using data in Tech8.38, like this:</emphasis></caption>
+                  </figure></item>
+                  </list>
+                  </solution>
+                </exercise>
+                <exercise id="exer-00024">
+                  <problem id="prob-00024"><list list-type="enumerated" number-style="arabic" start-value="2" id="list-00022">
+                  <item>In Module 1 Exercise 17, you looked at a sample of students at a large university, who were asked whether they were full-time students living on campus (Full-Time Residential, FTR), full-time students who commuted (FTC), or part-time students (PT). The raw data are in the table below:
+                  <table frame="none" summary="." id="table-00032">
+                  <tgroup cols="8">
+                  <colspec colnum="1" colname="c1" colwidth="1*"/>
+                  <colspec colnum="2" colname="c2" colwidth="1*"/>
+                  <colspec colnum="3" colname="c3" colwidth="1*"/>
+                  <colspec colnum="4" colname="c4" colwidth="1*"/>
+                  <colspec colnum="5" colname="c5" colwidth="1*"/>
+                  <colspec colnum="6" colname="c6" colwidth="1*"/>
+                  <colspec colnum="7" colname="c7" colwidth="1*"/>
+                  <colspec colnum="8" colname="c8" colwidth="1*"/>
+                  <tbody>
+                  <row><entry>FTR</entry>
+                  <entry>FTR</entry>
+                  <entry>FTC</entry>
+                  <entry>PT</entry>
+                  <entry>FTR</entry>
+                  <entry>PT</entry>
+                  <entry>FTR</entry>
+                  <entry>FTC</entry></row>
+                  <row><entry>FTR</entry>
+                  <entry>FTC</entry>
+                  <entry>FTC</entry>
+                  <entry>FTR</entry>
+                  <entry>FTR</entry>
+                  <entry>PT</entry>
+                  <entry>FTC</entry>
+                  <entry>FTC</entry></row>
+                  <row><entry>FTC</entry>
+                  <entry>PT</entry>
+                  <entry>FTC</entry>
+                  <entry>FTC</entry>
+                  <entry>PT</entry>
+                  <entry>FTR</entry>
+                  <entry>FTC</entry>
+                  <entry>PT</entry></row>
+                  <row><entry>FTC</entry>
+                  <entry>PT</entry>
+                  <entry>FTR</entry>
+                  <entry>PT</entry>
+                  <entry>FTC</entry>
+                  <entry>FTC</entry>
+                  <entry>FTR</entry>
+                  <entry>PT</entry></row></tbody>
+                  </tgroup>
+                  </table>
+                  <list list-type="enumerated" number-style="lower-alpha" id="list-00023">
+                  <item>Make a bar chart to visualize these responses.</item>
+                  <item>Make a pie chart to visualize these responses.</item>
+                  </list></item>
+                  </list>
+                  </problem>
+                  <solution id="sol-00024"><list list-type="enumerated" number-style="lower-alpha" id="list-00024"><item>
+                  <figure id="fig-00043">
+                  <media alt="Insert Alt Text">
+                  <image mime-type="image/png" src="../../media/CS_Figure_09_02_040.jpg"/>
+                  </media>
+                  <caption><emphasis effect="italic">Tech 8.40: Bar chart using the data in Tech8.40, like this:</emphasis></caption>
+                  </figure></item>
+                  <item><figure id="fig-00044">
+                  <media alt="Insert Alt Text">
+                  <image mime-type="image/png" src="../../media/CS_Figure_09_02_041.jpg"/>
+                  </media>
+                  <caption><emphasis effect="italic">Tech 8.41: Pie chart using the data in Tech8.40, like this:</emphasis></caption>
+                  </figure></item>
+                  </list>
+                  </solution>
+                  </exercise>
+                  
+                <exercise id="exer-00025">
+                  <problem id="prob-00025"><list list-type="enumerated" number-style="arabic" start-value="3" id="list-00025">
+                  <item>In Module 1 Exercise 19, students in a statistics class were asked how many countries (besides their home countries) they had visited; here are the raw responses:
+                  <table frame="none" summary="." id="table-00033">
+                  <tgroup cols="6">
+                  <colspec colnum="1" colname="c1" colwidth="1*"/>
+                  <colspec colnum="2" colname="c2" colwidth="1*"/>
+                  <colspec colnum="3" colname="c3" colwidth="1*"/>
+                  <colspec colnum="4" colname="c4" colwidth="1*"/>
+                  <colspec colnum="5" colname="c5" colwidth="1*"/>
+                  <colspec colnum="6" colname="c6" colwidth="1*"/>
+                  <tbody>
+                  <row><entry>0</entry>
+                  <entry>2</entry>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>3</entry>
+                  <entry>2</entry></row>
+                  <row><entry>0</entry>
+                  <entry>2</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry>1</entry></row>
+                  <row><entry>0</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>2</entry>
+                  <entry>1</entry>
+                  <entry>1</entry></row>
+                  <row><entry>0</entry>
+                  <entry>2</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>0</entry></row>
+                  <row><entry>0</entry>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>0</entry></row></tbody>
+                  </tgroup>
+                  </table>
+                  <list list-type="enumerated" number-style="lower-alpha" id="list-00026">
+                  <item>Create a bar graph visualizing these data (treating the responses as categorical).</item>
+                  <item>Create a pie chart visualizing these data.</item>
+                  </list></item>
+                  </list>
+                  </problem>
+                  <solution id="sol-00025">
+                  <list list-type="enumerated" number-style="lower-alpha" id="list-00027">
+                  <item><figure id="fig-00045">
+                  <media alt="Insert Alt Text">
+                  <image mime-type="image/png" src="../../media/CS_Figure_09_02_042.jpg"/>
+                  </media>
+                  <caption><emphasis effect="italic">Tech 8.42: Bar graph like this, using data in Tech8.42:</emphasis></caption>
+                  </figure></item>
+                  <item><figure id="fig-00046">
+                  <media alt="Insert Alt Text">
+                  <image mime-type="image/png" src="../../media/CS_Figure_09_02_043.jpg"/>
+                  </media>
+                  <caption><emphasis effect="italic">Tech 8.43: Pie chart like this, using data in Tech8.42:</emphasis></caption>
+                  </figure></item>
+                  </list>
+                  </solution>
+                  </exercise>
+                  <exercise id="exer-00026">
+                    <problem id="prob-00026"><list list-type="enumerated" number-style="arabic" start-value="4" id="list-00028">
+                    <item>The purchasing department for a chain of bookstores wants to make sure they’re buying the right types of books to put on the shelves, so they take a sample of 20 books that customers bought in the last five days and record the genres. Here are the raw data:
+                    <table frame="none" summary="." id="table-00034">
+                    <tgroup cols="5">
+                    <colspec colnum="1" colname="c1" colwidth="48pt" align="left"/>
+                    <colspec colnum="2" colname="c2" colwidth="48pt" align="left"/>
+                    <colspec colnum="3" colname="c3" colwidth="48pt" align="left"/>
+                    <colspec colnum="4" colname="c4" colwidth="48pt" align="left"/>
+                    <colspec colnum="5" colname="c5" colwidth="48pt" align="left"/>
+                    <tbody>
+                    <row><entry>Non-fiction</entry>
+                    <entry>Young Adult</entry>
+                    <entry>Romance</entry>
+                    <entry>Cooking</entry>
+                    <entry>Young Adult</entry></row>
+                    <row><entry>Young Adult</entry>
+                    <entry>Thriller</entry>
+                    <entry>Young Adult</entry>
+                    <entry>Non-fiction</entry>
+                    <entry>True Crime</entry></row>
+                    <row><entry>Romance</entry>
+                    <entry>Non-fiction</entry>
+                    <entry>Thriller</entry>
+                    <entry>True Crime</entry>
+                    <entry>Romance</entry></row>
+                    <row><entry>True Crime</entry>
+                    <entry>Thriller</entry>
+                    <entry>Romance</entry>
+                    <entry>Young Adult</entry>
+                    <entry>Young Adult</entry></row></tbody>
+                    </tgroup>
+                    </table>
+                    <list list-type="enumerated" number-style="lower-alpha" id="list-00029">
+                    <item>Create a bar graph to visualize these data.</item>
+                    <item>Create a pie chart to visualize these data.</item>
+                    </list></item>
+                    </list>
+                    </problem>
+                    <solution id="sol-00026">
+                    <list list-type="enumerated" number-style="lower-alpha" id="list-00030">
+                    <item><figure id="fig-00047">
+                    <media alt="Insert Alt Text">
+                    <image mime-type="image/png" src="../../media/CS_Figure_09_02_044.jpg"/>
+                    </media>
+                    <caption><emphasis effect="italic">Tech 8.44: Bar chart like this, using data from Tech8.44</emphasis></caption>
+                    </figure></item>
+                    <item><figure id="fig-00048">
+                    <media alt="Insert Alt Text">
+                    <image mime-type="image/png" src="../../media/CS_Figure_09_02_045.jpg"/>
+                    </media>
+                    <caption><emphasis effect="italic">Tech 8.45: Pie chart using data in Tech8.44, like this:</emphasis></caption>
+                    </figure></item>
+                    </list>
+                    </solution>
+                    </exercise>
+                  <exercise id="exer-00027">
+                    <problem id="prob-00027"><list list-type="enumerated" number-style="arabic" start-value="5" id="list-00031">
+                    <item>An elementary school class is administered a standardized test for which scores range from 0 to 100. Here are the results:
+                    <table frame="none" summary="." id="table-00035">
+                    <tgroup cols="5">
+                    <colspec colnum="1" colname="c1" colwidth="48pt" align="left"/>
+                    <colspec colnum="2" colname="c2" colwidth="48pt" align="left"/>
+                    <colspec colnum="3" colname="c3" colwidth="48pt" align="left"/>
+                    <colspec colnum="4" colname="c4" colwidth="48pt" align="left"/>
+                    <colspec colnum="5" colname="c5" colwidth="48pt" align="left"/>
+                    <tbody>
+                    <row><entry>60</entry>
+                    <entry>54</entry>
+                    <entry>71</entry>
+                    <entry>80</entry>
+                    <entry>63</entry></row>
+                    <row><entry>72</entry>
+                    <entry>70</entry>
+                    <entry>88</entry>
+                    <entry>88</entry>
+                    <entry>67</entry></row>
+                    <row><entry>74</entry>
+                    <entry>79</entry>
+                    <entry>50</entry>
+                    <entry>99</entry>
+                    <entry>64</entry></row>
+                    <row><entry>98</entry>
+                    <entry>55</entry>
+                    <entry>64</entry>
+                    <entry>86</entry>
+                    <entry>92</entry></row>
+                    <row><entry>72</entry>
+                    <entry>65</entry>
+                    <entry>88</entry>
+                    <entry>80</entry>
+                    <entry>65</entry></row></tbody>
+                    </tgroup>
+                    </table>
+                    <list list-type="enumerated" number-style="lower-alpha" id="list-00032">
+                    <item>Make a stem-and-leaf plot to visualize these results.</item>
+                    <item>Make a histogram to visualize these results. Use bins of width 10.</item>
+                    </list></item>
+                    </list>
+                    </problem>
+                    <solution id="sol-00027"><list list-type="enumerated" number-style="lower-alpha" id="list-00033">
+                    <item>
+                    <table frame="none" summary="." id="table-00036">
+                    <tgroup cols="8">
+                    <colspec colnum="1" colname="c1" colwidth="1*"/>
+                    <colspec colnum="2" colname="c2" colwidth="1*"/>
+                    <colspec colnum="3" colname="c3" colwidth="1*"/>
+                    <colspec colnum="4" colname="c4" colwidth="1*"/>
+                    <colspec colnum="5" colname="c5" colwidth="1*"/>
+                    <colspec colnum="6" colname="c6" colwidth="1*"/>
+                    <colspec colnum="7" colname="c7" colwidth="1*"/>
+                    <colspec colnum="8" colname="c8" colwidth="1*"/>
+                    <tbody>
+                    <row><entry>5</entry>
+                    <entry>0</entry>
+                    <entry>4</entry>
+                    <entry>5</entry>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/></row>
+                    <row><entry>6</entry>
+                    <entry>0</entry>
+                    <entry>3</entry>
+                    <entry>4</entry>
+                    <entry>4</entry>
+                    <entry>5</entry>
+                    <entry>5</entry>
+                    <entry>7</entry></row>
+                    <row><entry>7</entry>
+                    <entry>0</entry>
+                    <entry>1</entry>
+                    <entry>2</entry>
+                    <entry>2</entry>
+                    <entry>4</entry>
+                    <entry>9</entry>
+                    <entry/></row>
+                    <row><entry>8</entry>
+                    <entry>0</entry>
+                    <entry>0</entry>
+                    <entry>6</entry>
+                    <entry>8</entry>
+                    <entry>8</entry>
+                    <entry>8</entry>
+                    <entry/></row>
+                    <row><entry>9</entry>
+                    <entry>2</entry>
+                    <entry>8</entry>
+                    <entry>9</entry>
+                    <entry/>
+                    <entry/>
+                    <entry/>
+                    <entry/></row></tbody>
+                    </tgroup>
+                    </table></item>
+                    <item><figure id="fig-00049">
+                    <media alt="Insert Alt Text">
+                    <image mime-type="image/png" src="../../media/CS_Figure_09_02_046.jpg"/>
+                    </media>
+                    <caption><emphasis effect="italic">Tech 8.46: Histogram like this, based on data in Tech8.46:</emphasis></caption>
+                    </figure></item>
+                    </list>
+                    </solution>
+                    </exercise>
+                    
+                    <exercise id="exer-00028">
+                      <problem id="prob-00028"><list list-type="enumerated" number-style="arabic" start-value="6" id="list-00034">
+                      <item>The following table (found in the dataset NHL19, and accessed at ESPN.com) gives the results of the 2018-2019 National Hockey League season. The columns are team, wins (W), losses (L), overtime losses (OTL), total points (PTS; teams get two points for a win and one point for an overtime loss), goals scored by the team (GF), goals scored against the team (GA), and goal differential (the difference in GF and GA):
+                      <table frame="none" summary="." id="table-00037">
+                      <tgroup cols="8">
+                      <colspec colnum="1" colname="c1" colwidth="1*"/>
+                      <colspec colnum="2" colname="c2" colwidth="1*"/>
+                      <colspec colnum="3" colname="c3" colwidth="1*"/>
+                      <colspec colnum="4" colname="c4" colwidth="1*"/>
+                      <colspec colnum="5" colname="c5" colwidth="1*"/>
+                      <colspec colnum="6" colname="c6" colwidth="1*"/>
+                      <colspec colnum="7" colname="c7" colwidth="1*"/>
+                      <colspec colnum="8" colname="c8" colwidth="1*"/>
+                      <tbody>
+                      <row><entry>Team</entry>
+                      <entry>W</entry>
+                      <entry>L</entry>
+                      <entry>OTL</entry>
+                      <entry>PTS</entry>
+                      <entry>GF</entry>
+                      <entry>GA</entry>
+                      <entry>DIFF</entry></row>
+                      <row><entry>Tampa Bay Lightning</entry>
+                      <entry>62</entry>
+                      <entry>16</entry>
+                      <entry>4</entry>
+                      <entry>128</entry>
+                      <entry>325</entry>
+                      <entry>222</entry>
+                      <entry>103</entry></row>
+                      <row><entry>Calgary Flames</entry>
+                      <entry>50</entry>
+                      <entry>25</entry>
+                      <entry>7</entry>
+                      <entry>107</entry>
+                      <entry>289</entry>
+                      <entry>227</entry>
+                      <entry>62</entry></row>
+                      <row><entry>Boston Bruins</entry>
+                      <entry>49</entry>
+                      <entry>24</entry>
+                      <entry>9</entry>
+                      <entry>107</entry>
+                      <entry>259</entry>
+                      <entry>215</entry>
+                      <entry>44</entry></row>
+                      <row><entry>Washington Capitals</entry>
+                      <entry>48</entry>
+                      <entry>26</entry>
+                      <entry>8</entry>
+                      <entry>104</entry>
+                      <entry>278</entry>
+                      <entry>249</entry>
+                      <entry>29</entry></row>
+                      <row><entry>New York Islanders</entry>
+                      <entry>48</entry>
+                      <entry>27</entry>
+                      <entry>7</entry>
+                      <entry>103</entry>
+                      <entry>228</entry>
+                      <entry>196</entry>
+                      <entry>32</entry></row>
+                      <row><entry>San Jose Sharks</entry>
+                      <entry>46</entry>
+                      <entry>27</entry>
+                      <entry>9</entry>
+                      <entry>101</entry>
+                      <entry>289</entry>
+                      <entry>261</entry>
+                      <entry>28</entry></row>
+                      <row><entry>Toronto Maple Leafs</entry>
+                      <entry>46</entry>
+                      <entry>28</entry>
+                      <entry>8</entry>
+                      <entry>100</entry>
+                      <entry>286</entry>
+                      <entry>251</entry>
+                      <entry>35</entry></row>
+                      <row><entry>Nashville Predators</entry>
+                      <entry>47</entry>
+                      <entry>29</entry>
+                      <entry>6</entry>
+                      <entry>100</entry>
+                      <entry>240</entry>
+                      <entry>214</entry>
+                      <entry>26</entry></row>
+                      <row><entry>Pittsburgh Penguins</entry>
+                      <entry>44</entry>
+                      <entry>26</entry>
+                      <entry>12</entry>
+                      <entry>100</entry>
+                      <entry>273</entry>
+                      <entry>241</entry>
+                      <entry>32</entry></row>
+                      <row><entry>Winnipeg Jets</entry>
+                      <entry>47</entry>
+                      <entry>30</entry>
+                      <entry>5</entry>
+                      <entry>99</entry>
+                      <entry>272</entry>
+                      <entry>244</entry>
+                      <entry>28</entry></row>
+                      <row><entry>Carolina Hurricanes</entry>
+                      <entry>46</entry>
+                      <entry>29</entry>
+                      <entry>7</entry>
+                      <entry>99</entry>
+                      <entry>245</entry>
+                      <entry>223</entry>
+                      <entry>22</entry></row>
+                      <row><entry>St. Louis Blues</entry>
+                      <entry>45</entry>
+                      <entry>28</entry>
+                      <entry>9</entry>
+                      <entry>99</entry>
+                      <entry>247</entry>
+                      <entry>223</entry>
+                      <entry>24</entry></row>
+                      <row><entry>Columbus Blue Jackets</entry>
+                      <entry>47</entry>
+                      <entry>31</entry>
+                      <entry>4</entry>
+                      <entry>98</entry>
+                      <entry>258</entry>
+                      <entry>232</entry>
+                      <entry>26</entry></row>
+                      <row><entry>Montreal Canadiens</entry>
+                      <entry>44</entry>
+                      <entry>30</entry>
+                      <entry>8</entry>
+                      <entry>96</entry>
+                      <entry>249</entry>
+                      <entry>236</entry>
+                      <entry>13</entry></row>
+                      <row><entry>Dallas Stars</entry>
+                      <entry>43</entry>
+                      <entry>32</entry>
+                      <entry>7</entry>
+                      <entry>93</entry>
+                      <entry>210</entry>
+                      <entry>202</entry>
+                      <entry>8</entry></row>
+                      <row><entry>Vegas Golden Knights</entry>
+                      <entry>43</entry>
+                      <entry>32</entry>
+                      <entry>7</entry>
+                      <entry>93</entry>
+                      <entry>249</entry>
+                      <entry>230</entry>
+                      <entry>19</entry></row>
+                      <row><entry>Colorado Avalanche</entry>
+                      <entry>38</entry>
+                      <entry>30</entry>
+                      <entry>14</entry>
+                      <entry>90</entry>
+                      <entry>260</entry>
+                      <entry>246</entry>
+                      <entry>14</entry></row>
+                      <row><entry>Arizona Coyotes</entry>
+                      <entry>39</entry>
+                      <entry>35</entry>
+                      <entry>8</entry>
+                      <entry>86</entry>
+                      <entry>213</entry>
+                      <entry>223</entry>
+                      <entry>-10</entry></row>
+                      <row><entry>Florida Panthers</entry>
+                      <entry>36</entry>
+                      <entry>32</entry>
+                      <entry>14</entry>
+                      <entry>86</entry>
+                      <entry>267</entry>
+                      <entry>280</entry>
+                      <entry>-13</entry></row>
+                      <row><entry>Chicago Blackhawks</entry>
+                      <entry>36</entry>
+                      <entry>34</entry>
+                      <entry>12</entry>
+                      <entry>84</entry>
+                      <entry>270</entry>
+                      <entry>292</entry>
+                      <entry>-22</entry></row>
+                      <row><entry>Minnesota Wild</entry>
+                      <entry>37</entry>
+                      <entry>36</entry>
+                      <entry>9</entry>
+                      <entry>83</entry>
+                      <entry>211</entry>
+                      <entry>237</entry>
+                      <entry>-26</entry></row>
+                      <row><entry>Philadelphia Flyers</entry>
+                      <entry>37</entry>
+                      <entry>37</entry>
+                      <entry>8</entry>
+                      <entry>82</entry>
+                      <entry>244</entry>
+                      <entry>281</entry>
+                      <entry>-37</entry></row>
+                      <row><entry>Vancouver Canucks</entry>
+                      <entry>35</entry>
+                      <entry>36</entry>
+                      <entry>11</entry>
+                      <entry>81</entry>
+                      <entry>225</entry>
+                      <entry>254</entry>
+                      <entry>-29</entry></row>
+                      <row><entry>Anaheim Ducks</entry>
+                      <entry>35</entry>
+                      <entry>37</entry>
+                      <entry>10</entry>
+                      <entry>80</entry>
+                      <entry>199</entry>
+                      <entry>251</entry>
+                      <entry>-52</entry></row>
+                      <row><entry>Edmonton Oilers</entry>
+                      <entry>35</entry>
+                      <entry>38</entry>
+                      <entry>9</entry>
+                      <entry>79</entry>
+                      <entry>232</entry>
+                      <entry>274</entry>
+                      <entry>-42</entry></row>
+                      <row><entry>New York Rangers</entry>
+                      <entry>32</entry>
+                      <entry>36</entry>
+                      <entry>14</entry>
+                      <entry>78</entry>
+                      <entry>227</entry>
+                      <entry>272</entry>
+                      <entry>-45</entry></row>
+                      <row><entry>Buffalo Sabres</entry>
+                      <entry>33</entry>
+                      <entry>39</entry>
+                      <entry>10</entry>
+                      <entry>76</entry>
+                      <entry>226</entry>
+                      <entry>271</entry>
+                      <entry>-45</entry></row>
+                      <row><entry>Detroit Red Wings</entry>
+                      <entry>32</entry>
+                      <entry>40</entry>
+                      <entry>10</entry>
+                      <entry>74</entry>
+                      <entry>227</entry>
+                      <entry>277</entry>
+                      <entry>-50</entry></row>
+                      <row><entry>New Jersey Devils</entry>
+                      <entry>31</entry>
+                      <entry>41</entry>
+                      <entry>10</entry>
+                      <entry>72</entry>
+                      <entry>222</entry>
+                      <entry>275</entry>
+                      <entry>-53</entry></row>
+                      <row><entry>Los Angeles Kings</entry>
+                      <entry>31</entry>
+                      <entry>42</entry>
+                      <entry>9</entry>
+                      <entry>71</entry>
+                      <entry>202</entry>
+                      <entry>263</entry>
+                      <entry>-61</entry></row>
+                      <row><entry>Ottawa Senators</entry>
+                      <entry>29</entry>
+                      <entry>47</entry>
+                      <entry>6</entry>
+                      <entry>64</entry>
+                      <entry>242</entry>
+                      <entry>302</entry>
+                      <entry>-60</entry></row></tbody>
+                      </tgroup>
+                      </table>
+                      <list list-type="enumerated" number-style="lower-alpha" id="list-00035">
+                      <item>Make a stem-and-leaf plot for PTS.</item>
+                      <item>Make a histogram for PTS, using bins of width 10.</item>
+                      <item>Make a histogram for GF, using bins of width 10.</item>
+                      <item>Make a histogram for DIFF, using bins of width 20.</item>
+                      </list></item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00028"><list list-type="enumerated" number-style="lower-alpha" id="list-00036">
+                      <item>
+                      <table frame="none" summary="." id="table-00038">
+                      <tgroup cols="9">
+                      <colspec colnum="1" colname="c1" colwidth="1*"/>
+                      <colspec colnum="2" colname="c2" colwidth="1*"/>
+                      <colspec colnum="3" colname="c3" colwidth="1*"/>
+                      <colspec colnum="4" colname="c4" colwidth="1*"/>
+                      <colspec colnum="5" colname="c5" colwidth="1*"/>
+                      <colspec colnum="6" colname="c6" colwidth="1*"/>
+                      <colspec colnum="7" colname="c7" colwidth="1*"/>
+                      <colspec colnum="8" colname="c8" colwidth="1*"/>
+                      <colspec colnum="9" colname="c9" colwidth="1*"/>
+                      <tbody>
+                      <row><entry>6</entry>
+                      <entry>4</entry>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/></row>
+                      <row><entry>7</entry>
+                      <entry>1</entry>
+                      <entry>2</entry>
+                      <entry>4</entry>
+                      <entry>6</entry>
+                      <entry>8</entry>
+                      <entry>9</entry>
+                      <entry/>
+                      <entry/></row>
+                      <row><entry>8</entry>
+                      <entry>0</entry>
+                      <entry>1</entry>
+                      <entry>2</entry>
+                      <entry>3</entry>
+                      <entry>4</entry>
+                      <entry>6</entry>
+                      <entry>6</entry>
+                      <entry/></row>
+                      <row><entry>9</entry>
+                      <entry>0</entry>
+                      <entry>3</entry>
+                      <entry>3</entry>
+                      <entry>6</entry>
+                      <entry>8</entry>
+                      <entry>9</entry>
+                      <entry>9</entry>
+                      <entry>9</entry></row>
+                      <row><entry>10</entry>
+                      <entry>0</entry>
+                      <entry>0</entry>
+                      <entry>0</entry>
+                      <entry>1</entry>
+                      <entry>3</entry>
+                      <entry>4</entry>
+                      <entry>7</entry>
+                      <entry>7</entry></row>
+                      <row><entry>11</entry>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/></row>
+                      <row><entry>12</entry>
+                      <entry>8</entry>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/></row></tbody>
+                      </tgroup>
+                      </table></item>
+                      <item><figure id="fig-00050">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_047.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.47: Histogram like this, using data in Tech8.47:</emphasis></caption>
+                      </figure></item>
+                      <item><figure id="fig-00051">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_048.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.48: A histogram like this, using data in Tech8.48:</emphasis></caption>
+                      </figure></item>
+                      <item><figure id="fig-00052">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_049.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.49: A histogram like this, using data in Tech8.49:</emphasis></caption>
+                      </figure></item>
+                      </list>
+                      </solution>
+                      </exercise>
+                      <para id="para-00128">For Exercises 7-11, use the "CUNY" dataset (taken from data.ed.gov)—which gives the location (borough) of each college in the City University of New York (CUNY) system, the highest degree offered, and the proportions of total degrees awarded in a partial list of disciplines— to identify the right visualization to address each exercise's question, and then create those visualizations.</para>
+                      <exercise id="exer-00029">
+                      <problem id="prob-00029"><list list-type="enumerated" number-style="arabic" start-value="7" id="list-00037">
+                      <item>What is the highest degree offered in colleges across the CUNY system?</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00029"><figure id="fig-00053">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_050.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.50: A bar chart like this, using data in Tech8.50:</emphasis></caption>
+                      </figure>
+                      </solution>
+                      </exercise>
+                      
+                      <exercise id="exer-00030">
+                      <problem id="prob-00030"><list list-type="enumerated" number-style="arabic" start-value="8" id="list-00038">
+                      <item>What is the distribution of the proportion of degrees awarded in Information Science across the CUNY system?</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00030"><figure id="fig-00054">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_051.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.51: Histogram like this one, using data from Tech8.51.</emphasis></caption>
+                      </figure>
+                      </solution>
+                      </exercise>
+                       
+                      <exercise id="exer-00031">
+                      <problem id="prob-00031"><list list-type="enumerated" number-style="arabic" start-value="9" id="list-00039">
+                      <item>In which boroughs are the CUNY colleges located?</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00031"><figure id="fig-00055">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_052.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.52: Bar chart like this, using data in Tech8.52:</emphasis></caption>
+                      </figure>
+                      </solution>
+                      </exercise>
+                      <exercise id="exer-00032">
+                      <problem id="prob-00032"><list list-type="enumerated" number-style="arabic" start-value="10" id="list-00040">
+                      <item>What are the proportions of degrees awarded across the listed humanities fields (Foreign Language, English, Humanities, Philosophy &amp; Religion, History) at City College?</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00032"><figure id="fig-00056">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_053.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.53: Bar chart like this one, using data in Tech8.53:</emphasis></caption>
+                      </figure>
+                      </solution>
+                      </exercise>
+                      <exercise id="exer-00033">
+                      <problem id="prob-00033"><list list-type="enumerated" number-style="arabic" start-value="11" id="list-00041">
+                      <item>What proportions of degrees are awarded in Social Service at the different institutions located in Manhattan?</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00033"><figure id="fig-00057">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_054.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.54: Bar graph like this, using data in Tech8.54:</emphasis></caption>
+                      </figure>
+                      </solution>
+                      </exercise>
+                      <para id="para-00129">For Exercises 12 – 23, use the following table of data on the top 25 receivers (by number of receptions; data collected from pro-football-reference.com) in the NFL during the 2020 season (you can find this in the dataset “Receivers"):
+                      <table frame="none" summary="." id="table-00039">
+                      <tgroup cols="8">
+                      <colspec colnum="1" colname="c1" colwidth="1*"/>
+                      <colspec colnum="2" colname="c2" colwidth="1*"/>
+                      <colspec colnum="3" colname="c3" colwidth="1*"/>
+                      <colspec colnum="4" colname="c4" colwidth="1*"/>
+                      <colspec colnum="5" colname="c5" colwidth="1*"/>
+                      <colspec colnum="6" colname="c6" colwidth="1*"/>
+                      <colspec colnum="7" colname="c7" colwidth="1*"/>
+                      <colspec colnum="8" colname="c8" colwidth="1*"/>
+                      <tbody>
+                      <row><entry>Player</entry>
+                      <entry>Team</entry>
+                      <entry>Age</entry>
+                      <entry>Receptions</entry>
+                      <entry>Yards</entry>
+                      <entry>Yds/Rec</entry>
+                      <entry>TD</entry>
+                      <entry>Long</entry></row>
+                      <row><entry>Stefon Diggs</entry>
+                      <entry>BUF</entry>
+                      <entry>27</entry>
+                      <entry>127</entry>
+                      <entry>1535</entry>
+                      <entry>12.1</entry>
+                      <entry>8</entry>
+                      <entry>55</entry></row>
+                      <row><entry>Davante Adams</entry>
+                      <entry>GNB</entry>
+                      <entry>28</entry>
+                      <entry>115</entry>
+                      <entry>1374</entry>
+                      <entry>11.9</entry>
+                      <entry>18</entry>
+                      <entry>56</entry></row>
+                      <row><entry>DeAndre Hopkins</entry>
+                      <entry>ARI</entry>
+                      <entry>28</entry>
+                      <entry>115</entry>
+                      <entry>1407</entry>
+                      <entry>12.2</entry>
+                      <entry>6</entry>
+                      <entry>60</entry></row>
+                      <row><entry>Darren Waller</entry>
+                      <entry>LVR</entry>
+                      <entry>28</entry>
+                      <entry>107</entry>
+                      <entry>1196</entry>
+                      <entry>11.2</entry>
+                      <entry>9</entry>
+                      <entry>38</entry></row>
+                      <row><entry>Travis Kelce</entry>
+                      <entry>KAN</entry>
+                      <entry>31</entry>
+                      <entry>105</entry>
+                      <entry>1416</entry>
+                      <entry>13.5</entry>
+                      <entry>11</entry>
+                      <entry>45</entry></row>
+                      <row><entry>Allen Robinson</entry>
+                      <entry>CHI</entry>
+                      <entry>27</entry>
+                      <entry>102</entry>
+                      <entry>1250</entry>
+                      <entry>12.3</entry>
+                      <entry>6</entry>
+                      <entry>42</entry></row>
+                      <row><entry>Keenan Allen </entry>
+                      <entry>LAC</entry>
+                      <entry>28</entry>
+                      <entry>100</entry>
+                      <entry>992</entry>
+                      <entry>9.9</entry>
+                      <entry>8</entry>
+                      <entry>28</entry></row>
+                      <row><entry>Tyler Lockett</entry>
+                      <entry>SEA</entry>
+                      <entry>28</entry>
+                      <entry>100</entry>
+                      <entry>1054</entry>
+                      <entry>10.5</entry>
+                      <entry>10</entry>
+                      <entry>47</entry></row>
+                      <row><entry>JuJu Smith-Schuster</entry>
+                      <entry>PIT</entry>
+                      <entry>24</entry>
+                      <entry>97</entry>
+                      <entry>831</entry>
+                      <entry>8.6</entry>
+                      <entry>9</entry>
+                      <entry>31</entry></row>
+                      <row><entry>Robby Anderson</entry>
+                      <entry>CAR</entry>
+                      <entry>27</entry>
+                      <entry>95</entry>
+                      <entry>1096</entry>
+                      <entry>11.5</entry>
+                      <entry>3</entry>
+                      <entry>75</entry></row>
+                      <row><entry>Amari Cooper</entry>
+                      <entry>DAL</entry>
+                      <entry>26</entry>
+                      <entry>92</entry>
+                      <entry>1114</entry>
+                      <entry>12.1</entry>
+                      <entry>5</entry>
+                      <entry>69</entry></row>
+                      <row><entry>Cooper Kupp</entry>
+                      <entry>LAR</entry>
+                      <entry>27</entry>
+                      <entry>92</entry>
+                      <entry>974</entry>
+                      <entry>10.6</entry>
+                      <entry>3</entry>
+                      <entry>55</entry></row>
+                      <row><entry>Calvin Ridley</entry>
+                      <entry>ATL</entry>
+                      <entry>26</entry>
+                      <entry>90</entry>
+                      <entry>1374</entry>
+                      <entry>15.3</entry>
+                      <entry>9</entry>
+                      <entry>63</entry></row>
+                      <row><entry>Robert Woods</entry>
+                      <entry>LAR</entry>
+                      <entry>28</entry>
+                      <entry>90</entry>
+                      <entry>936</entry>
+                      <entry>10.4</entry>
+                      <entry>6</entry>
+                      <entry>56</entry></row>
+                      <row><entry>Justin Jefferson</entry>
+                      <entry>MIN</entry>
+                      <entry>21</entry>
+                      <entry>88</entry>
+                      <entry>1400</entry>
+                      <entry>15.9</entry>
+                      <entry>7</entry>
+                      <entry>71</entry></row>
+                      <row><entry>Diontae Johnson</entry>
+                      <entry>PIT</entry>
+                      <entry>24</entry>
+                      <entry>88</entry>
+                      <entry>923</entry>
+                      <entry>10.5</entry>
+                      <entry>7</entry>
+                      <entry>47</entry></row>
+                      <row><entry>Tyreek Hill</entry>
+                      <entry>KAN</entry>
+                      <entry>26</entry>
+                      <entry>87</entry>
+                      <entry>1276</entry>
+                      <entry>14.7</entry>
+                      <entry>15</entry>
+                      <entry>75</entry></row>
+                      <row><entry>Terry McLaurin</entry>
+                      <entry>WAS</entry>
+                      <entry>25</entry>
+                      <entry>87</entry>
+                      <entry>1118</entry>
+                      <entry>12.9</entry>
+                      <entry>4</entry>
+                      <entry>68</entry></row>
+                      <row><entry>Alvin Kamara</entry>
+                      <entry>NOR</entry>
+                      <entry>25</entry>
+                      <entry>83</entry>
+                      <entry>756</entry>
+                      <entry>9.1</entry>
+                      <entry>5</entry>
+                      <entry>52</entry></row>
+                      <row><entry>D.K. Metcalf</entry>
+                      <entry>SEA</entry>
+                      <entry>23</entry>
+                      <entry>83</entry>
+                      <entry>1303</entry>
+                      <entry>15.7</entry>
+                      <entry>10</entry>
+                      <entry>62</entry></row>
+                      <row><entry>Cole Beasley</entry>
+                      <entry>BUF</entry>
+                      <entry>31</entry>
+                      <entry>82</entry>
+                      <entry>967</entry>
+                      <entry>11.8</entry>
+                      <entry>4</entry>
+                      <entry>35</entry></row>
+                      <row><entry>Brandin Cooks</entry>
+                      <entry>HOU</entry>
+                      <entry>27</entry>
+                      <entry>81</entry>
+                      <entry>1150</entry>
+                      <entry>14.2</entry>
+                      <entry>6</entry>
+                      <entry>57</entry></row>
+                      <row><entry>J.D. McKissic</entry>
+                      <entry>WAS</entry>
+                      <entry>27</entry>
+                      <entry>80</entry>
+                      <entry>589</entry>
+                      <entry>7.4</entry>
+                      <entry>2</entry>
+                      <entry>29</entry></row>
+                      <row><entry>Tyler Boyd</entry>
+                      <entry>CIN</entry>
+                      <entry>26</entry>
+                      <entry>79</entry>
+                      <entry>841</entry>
+                      <entry>10.6</entry>
+                      <entry>4</entry>
+                      <entry>72</entry></row>
+                      <row><entry>Curtis Samuel</entry>
+                      <entry>CAR</entry>
+                      <entry>24</entry>
+                      <entry>77</entry>
+                      <entry>851</entry>
+                      <entry>11.1</entry>
+                      <entry>3</entry>
+                      <entry>44</entry></row></tbody>
+                      </tgroup>
+                      </table></para>
+                      <exercise id="exer-00034">
+                      <problem id="prob-00034"><list list-type="enumerated" number-style="arabic" start-value="12" id="list-00042">
+                      <item>Make a stem-and-leaf plot for the longest receptions (“Long”).</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00034"><table frame="none" summary="." id="table-00040">
+                      <tgroup cols="7">
+                      <colspec colnum="1" colname="c1" colwidth="1*"/>
+                      <colspec colnum="2" colname="c2" colwidth="1*"/>
+                      <colspec colnum="3" colname="c3" colwidth="1*"/>
+                      <colspec colnum="4" colname="c4" colwidth="1*"/>
+                      <colspec colnum="5" colname="c5" colwidth="1*"/>
+                      <colspec colnum="6" colname="c6" colwidth="1*"/>
+                      <colspec colnum="7" colname="c7" colwidth="1*"/>
+                      <tbody>
+                      <row><entry>2</entry>
+                      <entry>8</entry>
+                      <entry>9</entry>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/></row>
+                      <row><entry>3</entry>
+                      <entry>1</entry>
+                      <entry>5</entry>
+                      <entry>8</entry>
+                      <entry/>
+                      <entry/>
+                      <entry/></row>
+                      <row><entry>4</entry>
+                      <entry>2</entry>
+                      <entry>4</entry>
+                      <entry>5</entry>
+                      <entry>7</entry>
+                      <entry>7</entry>
+                      <entry/></row>
+                      <row><entry>5</entry>
+                      <entry>2</entry>
+                      <entry>5</entry>
+                      <entry>5</entry>
+                      <entry>6</entry>
+                      <entry>6</entry>
+                      <entry>7</entry></row>
+                      <row><entry>6</entry>
+                      <entry>0</entry>
+                      <entry>2</entry>
+                      <entry>3</entry>
+                      <entry>8</entry>
+                      <entry>9</entry>
+                      <entry/></row>
+                      <row><entry>7</entry>
+                      <entry>1</entry>
+                      <entry>2</entry>
+                      <entry>5</entry>
+                      <entry>5</entry>
+                      <entry/>
+                      <entry/></row></tbody>
+                      </tgroup>
+                      </table></solution>
+                      </exercise>
+                      <exercise id="exer-00035">
+                      <problem id="prob-00035"><list list-type="enumerated" number-style="arabic" start-value="13" id="list-00043">
+                      <item>Make a stem-and-leaf plot for receptions.</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00035"><table frame="none" summary="." id="table-00041">
+                      <tgroup cols="10">
+                      <colspec colnum="1" colname="c1" colwidth="1*"/>
+                      <colspec colnum="2" colname="c2" colwidth="1*"/>
+                      <colspec colnum="3" colname="c3" colwidth="1*"/>
+                      <colspec colnum="4" colname="c4" colwidth="1*"/>
+                      <colspec colnum="5" colname="c5" colwidth="1*"/>
+                      <colspec colnum="6" colname="c6" colwidth="1*"/>
+                      <colspec colnum="7" colname="c7" colwidth="1*"/>
+                      <colspec colnum="8" colname="c8" colwidth="1*"/>
+                      <colspec colnum="9" colname="c9" colwidth="1*"/>
+                      <colspec colnum="10" colname="c10" colwidth="1*"/>
+                      <tbody>
+                      <row><entry>7</entry>
+                      <entry>7</entry>
+                      <entry>9</entry>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/></row>
+                      <row><entry>8</entry>
+                      <entry>0</entry>
+                      <entry>1</entry>
+                      <entry>2</entry>
+                      <entry>3</entry>
+                      <entry>3</entry>
+                      <entry>7</entry>
+                      <entry>7</entry>
+                      <entry>8</entry>
+                      <entry>8</entry></row>
+                      <row><entry>9</entry>
+                      <entry>0</entry>
+                      <entry>0</entry>
+                      <entry>2</entry>
+                      <entry>2</entry>
+                      <entry>5</entry>
+                      <entry>7</entry>
+                      <entry/>
+                      <entry/>
+                      <entry/></row>
+                      <row><entry>10</entry>
+                      <entry>0</entry>
+                      <entry>0</entry>
+                      <entry>2</entry>
+                      <entry>5</entry>
+                      <entry>7</entry>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/></row>
+                      <row><entry>11</entry>
+                      <entry>5</entry>
+                      <entry>5</entry>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/></row>
+                      <row><entry>12</entry>
+                      <entry>7</entry>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/>
+                      <entry/></row></tbody>
+                      </tgroup>
+                      </table></solution>
+                      </exercise>
+                      <exercise id="exer-00036">
+                      <problem id="prob-00036"><list list-type="enumerated" number-style="arabic" start-value="14" id="list-00044">
+                      <item>Make a histogram for yards.</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00036"><figure id="fig-00058">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_055.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.55: Histogram like this, using data in Tech8.55:</emphasis></caption>
+                      </figure>
+                      </solution>
+                      </exercise>
+                      <exercise id="exer-00037">
+                      <problem id="prob-00037"><list list-type="enumerated" number-style="arabic" start-value="15" id="list-00045">
+                      <item>Make a histogram for yards per reception (“Yds/Rec”).</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00037"><figure id="fig-00059">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_056.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.56: Histogram like this, using data in Tech8.56:</emphasis></caption>
+                      </figure>
+                      </solution>
+                      </exercise>
+                      <exercise id="exer-00038">
+                      <problem id="prob-00038"><list list-type="enumerated" number-style="arabic" start-value="16" id="list-00046">
+                      <item>Make a histogram for the longest receptions (“Long”).</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00038"><figure id="fig-00060">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_057.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.57: Histogram like this, using data in Tech8.57:</emphasis></caption>
+                      </figure>
+                      </solution>
+                      </exercise>
+                      <exercise id="exer-00039">
+                      <problem id="prob-00039"><list list-type="enumerated" number-style="arabic" start-value="17" id="list-00047">
+                      <item>Make a histogram for receptions.</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00039"><figure id="fig-00061">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_058.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.58: Histogram like this, using data in Tech8.58:</emphasis></caption>
+                      </figure></solution>
+                      </exercise>
+                      <exercise id="exer-00040">
+                      <problem id="prob-00040"><list list-type="enumerated" number-style="arabic" start-value="18" id="list-00048">
+                      <item>Make a histogram for age.</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00040"><figure id="fig-00062">
+                      <media alt="Insert Alt Text">
+                      <image mime-type="image/png" src="../../media/CS_Figure_09_02_059.jpg"/>
+                      </media>
+                      <caption><emphasis effect="italic">Tech 8.59: Histogram like this, using data in Tech8.59:</emphasis></caption>
+                      </figure>
+                      </solution>
+                      </exercise>
+                      <exercise id="exer-00041">
+                      <problem id="prob-00041"><list list-type="enumerated" number-style="arabic" start-value="19" id="list-00049">
+                      <item>Describe the distribution of age as left-skewed, symmetric, or right-skewed.</item>
+                      </list>
+                      </problem>
+                      <solution id="sol-00041"><para id="para-00130">Symmetric</para></solution>
+                      </exercise>
+                      <exercise id="exer-00042">
+                      <problem id="prob-00042"><list list-type="enumerated" number-style="arabic" start-value="20" id="list-00050">
+                      <item>Describe the distribution of receptions as left-skewed, symmetric, or right-skewed.</item>
+                      </list></problem>
+                      <solution id="sol-00042"><para id="para-00131">Right-skewed</para></solution>
+                      </exercise>
+                      <exercise id="exer-00043">
+                      <problem id="prob-00043"><list list-type="enumerated" number-style="arabic" start-value="21" id="list-00051">
+                      <item>Describe the distribution of yards as left-skewed, symmetric, or right-skewed.</item>
+                      </list></problem>
+                      <solution id="sol-00043"><para id="para-00132">Right-skewed</para></solution>
+                      </exercise>
+                      <exercise id="exer-00044">
+                      <problem id="prob-00044"><list list-type="enumerated" number-style="arabic" start-value="22" id="list-00052">
+                      <item>Describe the distribution of touchdowns (“TD”) as left-skewed, symmetric, or right-skewed.</item>
+                      </list></problem>
+                      <solution id="sol-00044"><para id="para-00133">Right-skewed</para></solution>
+                      </exercise>
+                      <exercise id="exer-00045">
+                      <problem id="prob-00045"><list list-type="enumerated" number-style="arabic" start-value="23" id="list-00053">
+                      <item>Describe the distribution of longest receptions as left-skewed, symmetric, or right-skewed.</item>
+                      </list></problem>
+                      <solution id="sol-00045"><para id="para-00134">Left-skewed(slightly)</para></solution>
+                      </exercise>
+                      
+            </section>
       </content>
     </document>
