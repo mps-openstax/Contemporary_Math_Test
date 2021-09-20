@@ -278,14 +278,6 @@
         <problem id="prob-00004">
         <para id="para-00029"><link class="os-embed" url="#exercise/CM-C08-M2-Q002"/></para>
         </problem>
-        <solution id="sol-00004">
-        <figure id="fig-00010">
-        <media alt="Insert Alt Text">
-        <image mime-type="image/png" src="../../media/CS_Figure_08_02_010.jpg"/>
-        </media>
-        <caption><emphasis effect="italic">Tech 8.10: A bar graph like this. The heights of the rectangles are in the table above.</emphasis></caption>
-        </figure>
-        </solution>
         </exercise>
         </note>
         <para id="para-00030">In practice, most graphs are now made with computers. This video shows you how to make a bar graph using Google Sheets, which is available for free from any web browser at <emphasis effect="underscore">https://docs.google.com/spreadsheets</emphasis>.</para>
