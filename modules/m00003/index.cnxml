@@ -276,37 +276,7 @@
         <note class="your-turn" id="note-00005">
         <exercise id="exer-00004">
         <problem id="prob-00004">
-        <para id="para-00029">The students in a statistics class were asked to provide their majors. The computed proportions for each of the categories are as follows:
-        <table frame="none" summary="." id="table-00008">
-        <tgroup cols="3">
-        <colspec colnum="1" colname="c1" colwidth="1*"/>
-        <colspec colnum="2" colname="c2" colwidth="1*"/>
-        <colspec colnum="3" colname="c3" colwidth="3*"/>
-        <thead>
-        <row><entry><emphasis effect="bold">Major</emphasis></entry>
-        <entry><emphasis effect="bold">Frequency</emphasis></entry>
-        <entry><emphasis effect="bold">Proportion</emphasis></entry></row>
-        </thead>
-        <tbody>
-        <row><entry>Biology</entry>
-        <entry>6</entry>
-        <entry>37.5%</entry></row>
-        <row><entry>Education</entry>
-        <entry>1</entry>
-        <entry>6.3%</entry></row>
-        <row><entry>Political Science</entry>
-        <entry>3</entry>
-        <entry>18.8%</entry></row>
-        <row><entry>Sociology</entry>
-        <entry>2</entry>
-        <entry>12.5%</entry></row>
-        <row><entry>Undecided</entry>
-        <entry>4</entry>
-        <entry>25%</entry></row>
-        </tbody>
-        </tgroup>
-        </table>
-        Create a bar graph to visualize these data. Use percentages to label the vertical axis.</para>
+        <para id="para-00029"><link class="os-embed" url="#exercise/CM-C08-M2-Q002"/></para>
         </problem>
         <solution id="sol-00004">
         <figure id="fig-00010">
