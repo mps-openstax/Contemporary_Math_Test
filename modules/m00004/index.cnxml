@@ -302,8 +302,8 @@
   <para id="para-00015">In Example 3, we created a frequency distribution of the number of siblings of the people who attended a conflict resolution class. Here’s the result:
   <table summary="." id="table-00003">
   <tgroup cols="2">
-  <colspec colnum="1" colname="c1" colwidth="1*"/>
-  <colspec colnum="2" colname="c2" colwidth="1*"/>
+  <colspec colnum="1" colname="c1" colwidth="1*" align="center"/>
+  <colspec colnum="2" colname="c2" colwidth="1*" align="center"/>
   <thead>
   <row>
   <entry>Number of siblings</entry>
