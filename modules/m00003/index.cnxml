@@ -162,7 +162,7 @@
       </note>
       </example>
       <note class="your-turn" id="note-00003">
-      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00012"><link class="os-embed" url="https://exercises.openstax.org/#exercise/CM-C08-M2-Q001"/></para></problem>
+      <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00012"><link class="os-embed" url="#exercise/CM-C08-M2-Q001"/></para></problem>
       </exercise>
       </note>
       <para id="para-00016">Now that we can compute proportions, let’s turn to visualizations. There are two primary visualizations that we’ll use for categorical data: bar charts and pie charts. Both of these data representations work on the same principle: if proportions are represented as areas, then it’s easy to compare two proportions by assessing the corresponding areas. Let’s look at bar charts first.</para>
